@@ -1,2 +1,2 @@
-# Condesation
+# Condensation
 Wipe the condensation off
